@@ -37,7 +37,7 @@ Clone the project to the desired location on your computer.
 
 ```bash
 # Navigate to the directory.
-$ cd Blog
+$ cd RestfulAPI
 
 # Install necessary dependencies.
 $ npm install
