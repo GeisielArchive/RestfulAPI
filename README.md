@@ -24,6 +24,9 @@ This project is a Restful API implementation using Node.js, Express.js, and Mong
 - Express.js
 - MongoDB
 
+- [Postman](https://www.postman.com)
+- [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc?hl=en-US)
+
 
 ## Setup
 
@@ -56,7 +59,7 @@ $ node app.js
 - DELETE /resources/:id: Deletes a specific resource by ID.
 - Please note that :id in the above endpoints should be replaced with the actual ID of the resource.
 
-    
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
